@@ -1,0 +1,76 @@
+.bg-light {
+    background-color: #0AA6FA!important;
+}
+.navbar-brand{
+  color: #E63122 !important;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.nav-item{
+  font-size: 25px;
+  font-weight: lighter;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: #22E6AE !important;
+  font-weight: 600;
+  font-size: 20px;
+  transition: font-size 1s;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+  color: #F82918 !important;
+  font-size: 22px;
+}
+
+nav{
+  padding-top: 10px;
+}
+
+.aboutdesc {
+  background-image: url("/images/background2.jpeg");
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  width: 1110px !important;
+  height: 400px !important;
+  margin-left: 1px;
+}
+
+.intro1{
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.intro2{
+  padding-top: 5px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.intro3{
+  padding-top: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.intro4{
+  padding-top: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.footer{
+  padding-top: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
